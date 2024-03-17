@@ -1,50 +1,88 @@
 # AI
 zadanie 1:
+
 wypełnianie deklaracji PIT - wymaga intelegencji od człowieka
+
 streszczanie tekstu - nie wymaga intelegencji od człowieka
+
 tłumaczenie tekstu - nie wymaga intelegencji od człowieka
+
 klasyfikacja tekstu do kategorii tematycznych - nie wymaga intelegencji od człowieka
+
 odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim) - nie wymaga intelegencji od człowieka
+
 układanie rozkładu jazdy transportu miejskiego - nie wymaga intelegencji od człowieka
+
 programowanie (pisanie programów komputerowych) - wymaga intelegencji od człowieka
+
 „programowanie” kanałów telewizyjnych - nie wymaga intelegencji od człowieka
+
 testowanie oprogramowania - wymaga intelegencji od człowieka
+
 komponowanie muzyki - wymaga intelegencji od człowieka
+
 rozwiązywanie układów równań - wymaga intelegencji od człowieka
+
 symboliczne obliczanie pochodnych funkcji - wymaga intelegencji od człowieka
+
 symboliczne całkowanie funkcji - wymaga intelegencji od człowieka
+
 kierowanie samochodem - wymaga intelegencji od człowieka
+
 
 zadanie 2:
 
 streszczanie tekstu - miescza się w zakresie sztucznej inteligencji
+
 tłumaczenie tekstu - miescza się w zakresie sztucznej inteligencji
+
 klasyfikacja tekstu do kategorii tematycznych - miescza się w zakresie sztucznej inteligencji
+
 odpowiadanie na proste pytania zadawane w języku naturalnym - miescza się w zakresie sztucznej inteligencji
+
 rozwiązywanie układów równań - miescza się w zakresie sztucznej inteligencji
+
 układanie rozkładu jazdy - miescza się w zakresie sztucznej inteligencji
+
 rozwiązywanie układów równań liniowych - miescza się w zakresie sztucznej inteligencji
+
 symboliczne obliczanie pochodnych - miescza się w zakresie sztucznej inteligencji
+
 symboliczne całkowanie - miescza się w zakresie sztucznej inteligencji
+
 kierowanie samochodem - nie miescza się w zakresie sztucznej inteligencji
+
 
 zadanie 3:
 
 rozmowa towarzyska - mogą być obecnie skutecznie imitowane przez sztuczne systemy
+
 dyskusja polityczna - mogą być obecnie skutecznie imitowane przez sztuczne systemy
+
 dyskusja naukowa - mogą być obecnie skutecznie imitowane przez sztuczne systemy
+
 odpowiadanie na pytania klientów w telefonicznej infolinii - mogą być obecnie skutecznie imitowane przez sztuczne systemy
+
 odpowiadanie na pytania klientów w internetowej infolinii - mogą być obecnie skutecznie imitowane przez sztuczne systemy
 
 zadanie 4:
+
 1) bot "asystent, służący" może odpowiadać tylko na jakiś konkretny zakres pytan, a wydający się za człowieka może podtrzymać rozmowę na praktycznie dowolne tematy.
+
 3) Podczas rozmowy z Chatbotem można zauważyć, że potrafi on:
+
   a) Udzielać odpowiedzi na pytania oraz reagować na wypowiedzi użytkownika.
+  
   b) Przystosowywać się do tematu rozmowy i odpowiadać na pytania.
+  
   c) Odpowiadać na żarty i cytaty.
+  
   d) Nawiązywać do słów kluczowych w wypowiedzi użytkownika.
+  
   e) Zachowywać się w sposób ogólnikowy i wymijający w niektórych sytuacjach.
+  
   f) Kontynuować rozmowę, zmieniając temat i zadając pytania.
+
 4)
 Chatbot 1: Cześć! Jak się masz?
 
